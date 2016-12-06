@@ -2,4 +2,4 @@
 
 The idea of this project is to test GitHub pull request
 
-What abot second update at the same time?
+I don't want to add second line
